@@ -110,6 +110,8 @@ List of open data, open standards, open source tools and resources relating to g
 
 ## Data and Research Center
 
+[https://dataresearchcenter.org/](https://dataresearchcenter.org/)
+
 | Resource | Description |
 |---|---|
 | [OpenAleph](https://openaleph.org/) | Open source platform that securely stores large amounts of data and makes it searchable for easy collaboration. |
