@@ -62,6 +62,7 @@ List of open data, open standards, open source tools and resources relating to g
 |---|---|
 | [Global Energy Ownership Tracker](https://globalenergymonitor.org/projects/global-energy-ownership-tracker/) | The Global Energy Ownership Tracker provides information on the chain of ownership for various energy projects. The data maps each level of the chain from the direct owner (as in, the lowest-level identified owner in the chain of ownership) up to their highest-level ultimate parents (e.g., corporations, investment firms, and governments). |
 | [Climate TRACE](https://climatetrace.org/) | Global Energy Monitor is a part of the Climate TRACE coalition, connecting open data on global emissions back to the companies who own greenhouse gas-emitted locations across the globe. |
+| [Climate TRACE ownership tools](https://github.com/climatetracecoalition/climate-trace-tools/tree/main/climate_trace_tools/ownership) | GitHub repository showing how to get owned emissions from the Climate TRACE API and associated ownership data. |
 
 ---
 
