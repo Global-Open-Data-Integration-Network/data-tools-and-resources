@@ -39,6 +39,7 @@ List of open data, open standards, open source tools and resources relating to g
 | [LEI data](https://www.gleif.org/en/lei-data/access-and-use-lei-data) | How to access the quality assured LEI data pool to easily and quickly source information on who is who and who owns whom free of charge. |
 | [LEI mapping](https://www.gleif.org/en/lei-data/lei-mapping) | LEI mapping is critical in ensuring interoperability across parallel ID platforms. By linking widely used identifiers to globally recognized LEIs directly from their respective data sources, GLEIF and its partners are transforming fragmented identifiers into a connected, open network. Identifiers that the LEI is already mapped to include: SWIFT's Business Identifier Code (BIC) and Marketer Identifier Code (MIC); the Association of National Numbering Agencies' International Securities Identification Number (ISIN); S&P Global Market Intelligence's S&P CIQ Company ID; OpenCorporates' IDs; and Qichacha's QCC code. |
 | [Code lists](https://www.gleif.org/en/lei-data/code-lists) | GLEIF maintains several code lists referred to in the Common Data File (CDF) formats and provides a standard process for identifying and incorporating updates to these code lists. |
+| [GLEIF AI](https://ai.gleif.org/) | Use GLEIF AI to explore GLEIF data and find answers to GLEIF-related questions |
 
 ---
 
