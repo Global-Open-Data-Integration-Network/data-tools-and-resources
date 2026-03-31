@@ -106,6 +106,7 @@ List of open data, open standards, open source tools and resources relating to g
 |---|---|
 | [Datasets & data collections](https://www.opensanctions.org/datasets/) | OpenSanctions is built from a multitude of public data sources, which are imported, processed and combined into a coherent dataset. |
 | [Follow the Money data model](https://followthemoney.tech/) | FollowTheMoney (FtM) is a data model for financial crime investigations and document forensics. It contains definitions of the entities relevant in such research (like people or companies) and tools that let you generate, validate, and export such data easily. Entities can reference each other, creating a graph of relevant relationships. The ontology defined by FtM also includes a model for various types of documents that might be used as evidence in investigations. |
+| [EveryPolitician](https://everypolitician.org/) | EveryPolitician is a global database of political office-holders, from rulers, law-makers to judges and more. |
 
 ---
 
