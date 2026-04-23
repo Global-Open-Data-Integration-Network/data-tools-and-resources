@@ -25,7 +25,7 @@ List of open data, open standards, open source tools and resources relating to g
 | [GODIN website](https://godin.gleif.org/) | The Global Open Data Integration Network (GODIN) is a collaborative effort to enhance global data interoperability and accessibility by connecting organisations that publish open data or create open data standards and aligning data to a global framework like the Global Legal Entity Identifier (LEI) System. |
 | [LEIbooks](https://github.com/Global-Open-Data-Integration-Network/LEIbooks) | A repository containing a collection of Jupyter notebooks demonstrating practical use cases of LEI data. Each notebook focuses on a specific topic and provides example code to help data users explore, analyse, and apply LEI data effectively. |
 | [The Transparency Fabric 2.0](https://transparencyfabric.gleif.org/) | Demonstrating the benefits of maintaining a native mapping between GLEIF, Open Ownership and OpenSanctions data to create a comprehensive network of entity information while applying AI to enrich structured data with information extracted from annual reports. |
-| [Claude skill for beneficial ownership data](https://github.com/StephenAbbott/beneficial-ownership-data) | Once installed, this Claude Skill can be invoked using Anthropic's AI tools to help answer and understand beneficial ownership queries informed by expert technical, policy and international examples of registers, best practice and lessons learned from across the globe. |
+| [Beneficial Ownership Data Standard interoperability toolkit](https://github.com/StephenAbbott/bods-interoperability-toolkit) | Practical tools and workflows for validating, transforming and using Beneficial Ownership Data Standard (BODS) data across real-world systems. |
 
 ---
 
