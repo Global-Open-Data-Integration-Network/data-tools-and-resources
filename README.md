@@ -26,6 +26,7 @@ List of open data, open standards, open source tools and resources relating to g
 | [LEIbooks](https://github.com/Global-Open-Data-Integration-Network/LEIbooks) | A repository containing a collection of Jupyter notebooks demonstrating practical use cases of LEI data. Each notebook focuses on a specific topic and provides example code to help data users explore, analyse, and apply LEI data effectively. |
 | [The Transparency Fabric 2.0](https://transparencyfabric.gleif.org/) | Demonstrating the benefits of maintaining a native mapping between GLEIF, Open Ownership and OpenSanctions data to create a comprehensive network of entity information while applying AI to enrich structured data with information extracted from annual reports. |
 | [Beneficial Ownership Data Standard interoperability toolkit](https://github.com/StephenAbbott/bods-interoperability-toolkit) | Practical tools and workflows for validating, transforming and using Beneficial Ownership Data Standard (BODS) data across real-world systems. |
+| [OpenCheck](https://opencheck.world/) | With a Legal Entity Identifier, OpenCheck pulls open corporate data from dozens of national and global sources into one graph using the Beneficial Ownership Data Standard. |
 
 ---
 
