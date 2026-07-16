@@ -131,16 +131,31 @@ List of open data, open standards, open source tools and resources relating to g
 
 [https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/)
 
+| Resource | Description |
+|---|---|
+| [Wikidata data access](https://www.wikidata.org/wiki/Wikidata:Data_access) | Wikidata currently contains over 120 million Items and over 1,3 million Lexemes, and these numbers will keep on growing. There are many methods available to access all that data—this document lays them out and helps prospective users choose the best method to suit their needs. |
+| [Wikidata SPARQL query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help) | Wikidata Query Service provides a SPARQL endpoint including a powerful Web-GUI. SPARQL (pronounced "sparkle") is an RDF query language, that is, a semantic query language for databases. With SPARQL, you can extract any kind of data, with a query composed of logical combinations of triples. |
+| [Wikidata MCP](https://www.wikidata.org/wiki/Wikidata:MCP) | The Wikidata MCP provides a set of standardized tools that allow large language models (LLMs) to explore and query Wikidata programmatically. It is designed for agentic AI or AI workflows that need to search, inspect, and query Wikidata, without relying on hardcoded assumptions about its structure or content. |
+
+
 ---
 
 ## Wikirate
 
 [https://wikirate.org/](https://wikirate.org/)
 
+| Resource | Description |
+|---|---|
+| [Wikirate platform](https://platform.wikirate.org/) | Access open, structured Environmental, Social and Governance (ESG) data from a global community of contributors and partners. |
+
 ---
 
 ## Open Supply Hub
 
 [https://opensupplyhub.org/](https://opensupplyhub.org/)
+
+| Resource | Description |
+|---|---|
+| [Open Supply Hub platform](https://info.opensupplyhub.org/pricing) | Open Supply Hub is free to search, contribute to, and explore – and thousands of professionals do exactly that every month. The solutions listed on this page give your organization the infrastructure to operationalize that data at scale. |
 
 ---
