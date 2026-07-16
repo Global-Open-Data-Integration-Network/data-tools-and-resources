@@ -15,6 +15,9 @@ List of open data, open standards, open source tools and resources relating to g
 - [Open Data Services](#open-data-services)
 - [OpenSanctions](#opensanctions)
 - [Data and Research Center](#data-and-research-center)
+- [Wikidata](#wikidata)
+- [Wikirate](#wikirate)
+- [Open Supply Hub](#open-supply-hub)
 
 ---
 
@@ -121,3 +124,23 @@ List of open data, open standards, open source tools and resources relating to g
 | Resource | Description |
 |---|---|
 | [OpenAleph](https://openaleph.org/) | Open source platform that securely stores large amounts of data and makes it searchable for easy collaboration. |
+
+---
+
+## Wikidata
+
+[https://www.wikidata.org/wiki/Wikidata:Main_Page](https://www.wikidata.org/)
+
+---
+
+## Wikirate
+
+[https://wikirate.org/](https://wikirate.org/)
+
+---
+
+## Open Supply Hub
+
+[https://opensupplyhub.org/](https://opensupplyhub.org/)
+
+---
